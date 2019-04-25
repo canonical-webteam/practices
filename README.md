@@ -1,0 +1,1 @@
+A barebones repo just to redirect https://canonical-webteam.github.io/practices to https://canonical-web-and-design.github.io/practices.
